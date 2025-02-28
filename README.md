@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil-sarwara" alt="nikhil-sarwara" /></a> </p>
 
-- 🔭 I’m currently working on [literate potato](github.com/Nikhil-Sarwara/literate-potato)
+- 🔭 I’m currently working on nothing
 
 - 🌱 I’m currently learning **Flask**
 
