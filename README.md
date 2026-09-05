@@ -89,7 +89,13 @@ Honours thesis — PX4 SITL simulation, attack pipelines, ML detection models.
 **Python · PX4 · Machine Learning**
 
 </td>
-<td width="50%"></td>
+<td width="50%">
+
+#### 📡 [Server Health Monitor](https://github.com/Nikhil-Sarwara/server-health-monitor)
+Linux server health CLI — checks CPU, RAM, disk, services & sends alerts via email/Telegram.
+**Python · Linux · Multi-platform**
+
+</td>
 </tr>
 
 </table>
