@@ -81,22 +81,7 @@ Honours thesis — PX4 SITL simulation, attack pipelines, ML detection models.
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-#### 🌍 [EcoTrace](https://github.com/Nikhil-Sarwara/EcoTrace)
-Track daily activities and see your environmental impact.
-**TypeScript · React · Full-Stack**
-
-</td>
-<td width="50%">
-
-#### ⚖️ [Micro Justice](https://github.com/Nikhil-Sarwara/micro-justice)
-Full-stack community Q&A platform.
-**Express · Prisma · React**
-
-</td>
-</tr>
 </table>
 
 ---
