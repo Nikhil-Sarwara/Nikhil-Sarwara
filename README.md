@@ -97,7 +97,22 @@ Linux server health CLI — checks CPU, RAM, disk, services & sends alerts via e
 
 </td>
 </tr>
+<tr>
+<td width="50%">
 
+#### 🔍 [Network Scanner Inventory](https://github.com/Nikhil-Sarwara/network-scanner-inventory)
+Subnet scanner — finds live hosts, detects OS, enumerates ports & services. Watch mode for continuous monitoring.
+**Python · Multi-threaded · Cross-platform**
+
+</td>
+<td width="50%">
+
+#### 📡 [PX4 GPS Spoofing Research](https://github.com/Nikhil-Sarwara/px4-gps-spoofing-research)
+PX4 SITL environment for GPS spoofing research — simulation setup and data pipelines.
+**Python · PX4 · Research**
+
+</td>
+</tr>
 </table>
 
 ---
