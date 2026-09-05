@@ -68,11 +68,20 @@ Complete 1970s 8-bit computer system — Python core, 46 tests, live web console
 <tr>
 <td width="50%">
 
+#### 🛠️ [Tool Hord](https://github.com/Nikhil-Sarwara/tool-hord)
+100+ browser-based utility tools — free, client-side, no signup.
+**TypeScript · React · [▶ tool-hord.vercel.app](https://tool-hord.vercel.app)**
+
+</td>
+<td width="50%">
+
 #### 🤖 [Oye-Cli](https://github.com/Nikhil-Sarwara/Oye-Cli)
 AI-powered CLI assistant that generates Linux commands using Ollama.
 **C# · Ollama · Cross-platform**
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 🛡️ [GPS Spoofing Detection](https://github.com/Nikhil-Sarwara/gps_spoofing)
@@ -80,6 +89,7 @@ Honours thesis — PX4 SITL simulation, attack pipelines, ML detection models.
 **Python · PX4 · Machine Learning**
 
 </td>
+<td width="50%"></td>
 </tr>
 
 </table>
